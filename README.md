@@ -9,7 +9,7 @@
 
 ## 🔗 Demo
 
-👉 線上預覽網址：
+👉 線上預覽網址：https://scarlett-terra.github.io/Blog-Card/
 
 ---
 
